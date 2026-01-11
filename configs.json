@@ -93,6 +93,7 @@
   {
     "category": "Drone View + Damage Up (Safe) (MLBB)",
     "color": "#FFD700",
+    "vipOnly": true,
     "items": [
       {
         "id": "mlbb_dronedmg1",
