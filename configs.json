@@ -12,7 +12,13 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/view1.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/view1.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
       },
       {
         "id": "mlbb_2",
@@ -23,7 +29,13 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/view2.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/view2.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
       },
       {
         "id": "mlbb_3",
@@ -34,7 +46,13 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/view3.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/view3.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
       },
       {
         "id": "mlbb_4",
@@ -45,7 +63,13 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_MLBB_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/view4.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/view4.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
       }
     ]
   },
@@ -62,7 +86,14 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_BG_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_original.png"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_original.png",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/view4.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
       },
       {
         "id": "mlbb_bg2",
@@ -73,16 +104,23 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_BG_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_hutao.png"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_hutao.png",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/view4.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
       }
     ]
   },
   {
-    "category": "Skin Extractor (MLBB)",
+    "category": "music backround (MLBB)",
     "color": "#FFD700",
     "items": [
       {
-        "id": "mlbb_skin1",
+        "id": "mlbb_music1",
         "title": "MLBB ORIGINAL BACKGROUND1",
         "titleColor": "#FFA500",
         "description": "Default UI",
@@ -90,10 +128,17 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_BG_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_original.png"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_original.png",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/view4.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
       },
       {
-        "id": "mlbb_skin2",
+        "id": "mlbb_music2",
         "title": "HU TAO INTERFACE",
         "titleColor": "#FFA500",
         "description": "Anime UI",
@@ -101,10 +146,17 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_BG_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_hutao.png"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_hutao.png",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/view4.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
       },
       {
-        "id": "mlbb_skin3",
+        "id": "mlbb_music3",
         "title": "HU TAO INTERFACE",
         "titleColor": "#FFA500",
         "description": "Anime UI",
@@ -112,7 +164,14 @@
         "installType": "mlbb",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtube.com/YOUR_BG_KEY_TUTORIAL",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_hutao.png"
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mlbb_bg_hutao.png",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/view4.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
       }
     ]
   },
