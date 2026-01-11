@@ -182,13 +182,13 @@
     ]
   },
   {
-    "category": "Map Hack (Safe) (MLBB)",
+    "category": "Backround wallpaper(MLBB)",
     "color": "#FFD700",
     "vipOnly": true,
     "items": [
       {
         "id": "maphack1",
-        "title": "Map Hack",
+        "title": "Backround wallpaper v1",
         "titleColor": "#FFA500",
         "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/",
