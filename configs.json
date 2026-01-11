@@ -194,7 +194,7 @@
         "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/",
         "installType": "mlbb",
-        "installButtonText": "Apply"
+        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "buyKeyUrl": "https://linktr.ee/otj",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
