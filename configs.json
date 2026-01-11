@@ -1,0 +1,408 @@
+[
+  {
+    "category": "Drone View 1-5 (Safe) (MLBBs)",
+    "color": "#FFD700",
+    "items": [
+      {
+        "id": "mlbb_drone1",
+        "title": "Drone View 1x (Smooth)",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone1.zip",
+        "installType": "mlbb",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview1.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
+      },
+      {
+        "id": "mlbb_drone2",
+        "title": "Drone View 2x (Smooth)",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone2.zip",
+        "installType": "mlbb",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview2.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
+      },
+      {
+        "id": "mlbb_drone3",
+        "title": "Drone View 3x (Smooth)",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone3.zip",
+        "installType": "mlbb",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview3.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
+      },
+      {
+        "id": "mlbb_drone4",
+        "title": "Drone View 4x (Smooth)",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone4.zip",
+        "installType": "mlbb",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview4.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
+      },
+      {
+        "id": "mlbb_drone5",
+        "title": "Drone View 5x (Smooth)",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone5.zip",
+        "installType": "mlbb",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview5.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
+      }
+    ]
+  },
+  {
+    "category": "Drone View + Damage Up (Safe) (MLBB)",
+    "color": "#FFD700",
+    "items": [
+      {
+        "id": "mlbb_dronedmg1",
+        "title": "Drone View 1x + Damage Up (Smooth)",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone+damage1.zip",
+        "installType": "mlbb",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview1.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
+      },
+      {
+        "id": "mlbb_dronedmg2",
+        "title": "Drone View 2x + Damage Up (Smooth)",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone+damage2.zip",
+        "installType": "mlbb",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview2.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
+      },
+      {
+        "id": "mlbb_dronedmg3",
+        "title": "Drone View 3x + Damage Up (Smooth)",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone+damage3.zip",
+        "installType": "mlbb",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview3.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
+      },
+      {
+        "id": "mlbb_dronedmg4",
+        "title": "Drone View 4x + Damage Up (Smooth)",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone+damage4.zip",
+        "installType": "mlbb",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview4.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
+      },
+      {
+        "id": "mlbb_dronedmg5",
+        "title": "Drone View 5x + Damage Up (Smooth)",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone+damage5.zip",
+        "installType": "mlbb",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview5.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
+      }
+    ]
+  },
+  {
+    "category": "Map Hack (Safe) (MLBB)",
+    "color": "#FFD700",
+    "items": [
+      {
+        "id": "maphack1",
+        "title": "Map Hack",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/",
+        "installType": "mlbb",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview5.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.42.11468",
+        "updateUrl": "https://linktr.ee/otj7nvptci7",
+        "versionDialogTitle": "Older MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
+      }
+    ]
+  },
+  {
+    "category": "Executors (Roblox)",
+    "color": "#FFD700",
+    "items": [
+      {
+        "id": "roblox_exe1",
+        "title": "FluxusZ Executor",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Roblox.Executor.fluxusZ.zip",
+        "installType": "roblox",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/fluxusz.jpg"
+      },
+      {
+        "id": "roblox_exe2",
+        "title": "Ronix Executor",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Roblox.Executor.Ronix.zip",
+        "installType": "roblox",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/ronix.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Scripts (Roblox)",
+    "color": "#FFD700",
+    "items": [
+      {
+        "id": "roblox_script1",
+        "title": "The Forge Script – Carsonn Hub",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Roblox.Script1.zip",
+        "installType": "roblox",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/The Forge Script – Carsonn Hub1.png"
+      },
+      {
+        "id": "roblox_script2",
+        "title": "Fish It Script – Trash Hub",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Roblox.Script2.zip",
+        "installType": "roblox",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/Fish It Script – Trash Hub1.png"
+      },
+      {
+        "id": "roblox_script3",
+        "title": "BLOX FRUITS – REDz Hub",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Roblox.Script3.zip",
+        "installType": "roblox",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/BLOX FRUITS – REDz Hub1.png"
+      }
+    ]
+  },
+  {
+    "category": "MOD MENU (Call of Duty Mobile)",
+    "color": "#FFD700",
+    "items": [
+      {
+        "id": "codm_fps1",
+        "title": "CODM MOD MENU v1",
+        "titleColor": "#FFA500",
+        "description": "Safe and Smooth",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/CODM1.zip",
+        "installType": "codm",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/codm1.jpg"
+      },
+      {
+        "id": "codm_fps2",
+        "title": "CODM MOD MENU v2",
+        "titleColor": "#FFA500",
+        "description": "Safe and Smooth",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/CODM2.zip",
+        "installType": "codm",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/codm2.jpg"
+      }
+    ]
+  },
+  {
+    "category": "MOD MENU (CrossFire Legends)",
+    "color": "#FFD700",
+    "items": [
+      {
+        "id": "crossfire_fps1",
+        "title": "CROSSFIRE MOD V1",
+        "titleColor": "#FFA500",
+        "description": "Safe and Smooth",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Crossfire.Legends1.zip",
+        "installType": "crossfire",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/cfl1.jpg"
+      },
+      {
+        "id": "crossfire_fps2",
+        "title": "CROSSFIRE MOD V2",
+        "titleColor": "#FFA500",
+        "description": "Safe and Smooth",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Crossfire.Legends2.zip",
+        "installType": "crossfire",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/cfl2.jpg"
+      }
+    ]
+  },
+  {
+    "category": "MOD MENU (Safe)(Honor of Kings)",
+    "color": "#FFD700",
+    "items": [
+      {
+        "id": "hok_fps1",
+        "title": "HOK MOD MENU",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/HOK1.zip",
+        "installType": "hok",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/hok1.jpg"
+      },
+      {
+        "id": "hok_fps2",
+        "title": "HOK MOD MENU v2",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/HOK2.zip",
+        "installType": "hok",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/hok2.jpg"
+      }
+    ]
+  },
+  {
+    "category": "FPS ANTI LAG (Magic Chess Go Go)",
+    "color": "#FFD700",
+    "items": [
+      {
+        "id": "magic_fps1",
+        "title": "Magic Chess Script Map v1",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Magic.Chess1.zip",
+        "installType": "magicchess",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc1.jpg"
+      },
+      {
+        "id": "magic_fps2",
+        "title": "Magic Chess Script Map v2",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Magic.Chess1.zip",
+        "installType": "magicchess",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc2.jpg"
+      },
+      {
+        "id": "magic_fps3",
+        "title": "Magic Chess Script Map v3",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Magic.Chess1.zip",
+        "installType": "magicchess",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc3.jpg"
+      },
+      {
+        "id": "magic_fps4",
+        "title": "Magic Chess Script Map v4",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Magic.Chess1.zip",
+        "installType": "magicchess",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
+        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc4.jpg"
+      }
+    ]
+  }
+]
