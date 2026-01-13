@@ -1,6 +1,6 @@
 [
   {
-    "category": "Drone View 1-5 (Safe) (MLBBs)",
+    "category": "Drone View 1-10 (Safe) (MLBB)",
     "color": "#FFD700",
     "items": [
       {
@@ -186,7 +186,7 @@
     ]
   },
   {
-    "category": "Drone View + Damage Up (Safe) (MLBB)",
+    "category": "Drone View 1-10 + Damage Up (Safe) (MLBB) (VIP)",
     "color": "#FFD700",
     "vipOnly": true,
     "items": [
