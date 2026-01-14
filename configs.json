@@ -10,7 +10,6 @@
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone1.zip",
         "installType": "mlbb",
-        "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview1.jpg",
