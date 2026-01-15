@@ -386,10 +386,11 @@
     "category": "Backround wallpaper(MLBB)",
     "color": "#FFD700",
     "vipOnly": true,
+    "adblockCheck": false,
     "items": [
       {
         "id": "bg1",
-        "title": "Backround wallpaper v111",
+        "title": "Backround wallpaper v1",
         "titleColor": "#FFA500",
         "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/",
