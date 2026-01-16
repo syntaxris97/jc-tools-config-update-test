@@ -400,6 +400,7 @@
         "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "buyKeyUrl": "https://linktr.ee/otj",
+        "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/drone1.jpg",
         "requiredPackage": "com.mobile.legends",
         "requiredVersionExact": "2.1.42.11468",
