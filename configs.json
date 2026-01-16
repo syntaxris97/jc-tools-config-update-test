@@ -190,7 +190,7 @@
     "category": "Drone View 1-10 + Extra Damage (Safe) (MLBB) (VIP)",
     "color": "#FFD700",
     "vipOnly": true,
-    "adblockCheck": true,
+    "adblockCheck": false,
     "items": [
       {
         "id": "mlbb_dronedmg1",
