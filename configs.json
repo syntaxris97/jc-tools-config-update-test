@@ -6,7 +6,7 @@
     "items": [
       {
         "id": "mlbb_drone1",
-        "title": "Drone View 1x1 (Smooth)",
+        "title": "Drone View 1x (Smooth)",
         "titleColor": "#FFA500",
         "description": "Updated: 1/14/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/drone1.zip",
@@ -400,7 +400,6 @@
         "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
         "buyKeyUrl": "https://linktr.ee/otj",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/drone1.jpg",
         "requiredPackage": "com.mobile.legends",
         "requiredVersionExact": "2.1.42.11468",
