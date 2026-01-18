@@ -189,6 +189,7 @@
   },
   {
     "category": "Drone View 1-10 + Extra Damage (Safe) (MLBB) (VIP)",
+    "subtitle": "SAFE",
     "color": "#FFD700",
     "vipOnly": true,
     "adblockCheck": false,
@@ -387,6 +388,7 @@
   },
   {
     "category": "Backround wallpaper(MLBB)",
+    "subtitle": "SAFE",
     "color": "#FFD700",
     "vipOnly": true,
     "adblockCheck": false,
@@ -416,6 +418,7 @@
   },
   {
     "category": "Executors (Roblox)",
+    "subtitle": "SAFE",
     "color": "#FFD700",
     "items": [
       {
@@ -446,6 +449,7 @@
   },
   {
     "category": "Scripts (Roblox)",
+    "subtitle": "SAFE",
     "color": "#FFD700",
     "items": [
       {
@@ -488,6 +492,7 @@
   },
   {
     "category": "MOD MENU (Call of Duty Mobile)",
+    "subtitle": "SAFE",
     "color": "#FFD700",
     "items": [
       {
@@ -520,6 +525,7 @@
   },
   {
     "category": "MOD MENU (CrossFire Legends)",
+    "subtitle": "SAFE",
     "color": "#FFD700",
     "items": [
       {
@@ -550,6 +556,7 @@
   },
   {
     "category": "MOD MENU (Safe)(Honor of Kings)",
+    "subtitle": "SAFE",
     "color": "#FFD700",
     "items": [
       {
@@ -580,6 +587,7 @@
   },
   {
     "category": "FPS ANTI LAG (Magic Chess Go Go)",
+    "subtitle": "SAFE",
     "color": "#FFD700",
     "items": [
       {
