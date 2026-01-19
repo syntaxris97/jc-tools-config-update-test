@@ -418,6 +418,7 @@
     "category": "Executors (Roblox)",
     "subtitle": "(Roblox)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
+    "adblockCheck": true,
     "items": [
       {
         "id": "roblox_exe1",
