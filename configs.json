@@ -1,6 +1,6 @@
 [
   {
-    "category": "Drone View 1-10x",
+    "category": "Drone View 1-5x",
     "subtitle": "(MLBB)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
     "adblockCheck": true,
@@ -98,7 +98,7 @@
     ]
   },
   {
-    "category": "Drone View 1-10 + Extra Damage (VIP)",
+    "category": "Extra Damage + Drone View 1-5x (VIP)",
     "subtitle": "(MLBB)(VIP)(Safe)(Smooth)",
     "color": "#FFD700",
     "vipOnly": true,
@@ -106,7 +106,7 @@
     "items": [
       {
         "id": "mlbb_dronedmg1",
-        "title": "Drone View 1x + Extra Damage (VIP)",
+        "title": "Extra Damage + Drone View 1x (VIP)",
         "titleColor": "#FFA500",
         "description": "Updated: 2/3/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/ndronedmg1.zip",
@@ -125,7 +125,7 @@
       },
       {
         "id": "mlbb_dronedmg2",
-        "title": "Drone View 2x + Extra Damage (VIP)",
+        "title": "Extra Damage + Drone View 2x (VIP)",
         "titleColor": "#FFA500",
         "description": "Updated: 2/3/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/ndronedmg2.zip",
@@ -144,7 +144,7 @@
       },
       {
         "id": "mlbb_dronedmg3",
-        "title": "Drone View 3x + Extra Damage (VIP)",
+        "title": "Extra Damage + Drone View 3x (VIP)",
         "titleColor": "#FFA500",
         "description": "Updated: 2/3/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/ndronedmg3.zip",
@@ -163,7 +163,7 @@
       },
       {
         "id": "mlbb_dronedmg4",
-        "title": "Drone View 4x + Extra Damage (VIP)",
+        "title": "Extra Damage + Drone View 4x (VIP)",
         "titleColor": "#FFA500",
         "description": "Updated: 2/3/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/ndronedmg4.zip",
@@ -182,7 +182,7 @@
       },
       {
         "id": "mlbb_dronedmg5",
-        "title": "Drone View 5x + Extra Damage (VIP)",
+        "title": "Extra Damage + Drone View 5x (VIP)",
         "titleColor": "#FFA500",
         "description": "Updated: 2/3/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/ndronedmg5.zip",
@@ -212,8 +212,8 @@
         "id": "maphack1",
         "title": "Map Hack (VIP)",
         "titleColor": "#FFA500",
-        "description": "Updated: 1/19/2026",
-        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/mh1.zip",
+        "description": "Updated: 2/3/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/newmh.zip",
         "installType": "mlbb",
         "installButtonText": "Apply",
         "getKeyUrl": "https://jctools.jesraelabogado.workers.dev/api/start",
