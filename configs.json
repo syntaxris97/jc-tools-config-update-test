@@ -107,7 +107,7 @@
         "id": "3dv",
         "title": "3D View",
         "titleColor": "#FFA500",
-        "description": "Updated: 2/3/2026\nSet the Camera Height: Low",
+        "description": "Updated: 2/3/2026\n( Set the Camera Height: Low )",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/3d.zip",
         "installType": "mlbb",
         "installButtonText": "Apply",
