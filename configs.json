@@ -276,7 +276,7 @@
       },
       {
         "id": "mlbb_frncoaim",
-        "title": "Franco Auto Aim Hook (VIP)",
+        "title": "Franco Auto Aim Hook. (VIP)",
         "titleColor": "#FFA500",
         "description": "Updated: 2/3/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/francoautoaim.zip",
@@ -286,6 +286,7 @@
         "buyKeyUrl": "https://t.me/jctoolz0/734",
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview3.jpg",
+        "maintenance": true,
         "requiredPackage": "com.mobile.legends",
         "requiredVersionExact": "2.1.47.11491",
         "updateUrl": "https://linktr.ee/paowkw",
