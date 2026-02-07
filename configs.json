@@ -17,7 +17,7 @@
         "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview1.jpg",
         "requiredPackage": "com.mobile.legends",
-        "requiredVersionExact": "2.1.47.11491",
+        "requiredVersionExact": "2.1.47.114911",
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
