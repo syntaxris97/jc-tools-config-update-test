@@ -458,7 +458,7 @@
     "items": [
       {
         "id": "codm_fps1",
-        "title": "CODM MOD MENU v11",
+        "title": "CODM MOD MENU v1",
         "titleColor": "#FFA500",
         "description": "Safe and Smooth",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/CODM1.zip",
@@ -468,7 +468,7 @@
         "getKeyUrl": "https://arolinks.com/odRU1",
         "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/codm1.jpg",
-        "maintenance": true,
+        "maintenance": false,
         "maintenanceMessage": "CODM MOD MENU V1 is under maintenance. Please check again later."
       },
       {
