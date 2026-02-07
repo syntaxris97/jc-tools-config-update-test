@@ -7,14 +7,14 @@
     "items": [
       {
         "id": "mlbb_drone1",
-        "title": "Drone View 1x",
+        "title": "Drone View 1x1.",
         "titleColor": "#FFA500",
         "description": "Updated: 2/3/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/newdrone1.zip",
         "installType": "mlbb",
         "installButtonText": "Apply",
         "getKeyUrl": "https://arolinks.com/ilLTW",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview1.jpg",
         "requiredPackage": "com.mobile.legends",
         "requiredVersionExact": "2.1.47.11491",
@@ -22,7 +22,7 @@
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
         "enableVersionCheck": true,
-         "useRewardedInstall": true
+        "useRewardedInstall": true
       },
       {
         "id": "mlbb_drone2",
@@ -33,14 +33,15 @@
         "installType": "mlbb",
         "installButtonText": "Apply",
         "getKeyUrl": "https://arolinks.com/ilLTW",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview2.jpg",
         "requiredPackage": "com.mobile.legends",
-        "requiredVersionExact": "2.1.47.114911",
+        "requiredVersionExact": "2.1.47.11491",
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true
+        "enableVersionCheck": true,
+        "useRewardedInstall": true
       },
       {
         "id": "mlbb_drone3",
@@ -51,14 +52,15 @@
         "installType": "mlbb",
         "installButtonText": "Apply",
         "getKeyUrl": "https://arolinks.com/ilLTW",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview3.jpg",
         "requiredPackage": "com.mobile.legends",
         "requiredVersionExact": "2.1.47.11491",
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true
+        "enableVersionCheck": true,
+        "useRewardedInstall": true
       },
       {
         "id": "mlbb_drone4",
@@ -69,14 +71,15 @@
         "installType": "mlbb",
         "installButtonText": "Apply",
         "getKeyUrl": "https://arolinks.com/ilLTW",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview4.jpg",
         "requiredPackage": "com.mobile.legends",
         "requiredVersionExact": "2.1.47.11491",
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true
+        "enableVersionCheck": true,
+        "useRewardedInstall": true
       },
       {
         "id": "mlbb_drone5",
@@ -87,20 +90,21 @@
         "installType": "mlbb",
         "installButtonText": "Apply",
         "getKeyUrl": "https://arolinks.com/ilLTW",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview5.jpg",
         "requiredPackage": "com.mobile.legends",
         "requiredVersionExact": "2.1.47.11491",
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true
+        "enableVersionCheck": true,
+        "useRewardedInstall": true
       }
     ]
   },
   {
     "category": "3D View",
-    "subtitle": "(MLBB)(VIP)(Safe)(Smooth)",
+    "subtitle": "(MLBB)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
     "adblockCheck": true,
     "items": [
@@ -114,14 +118,15 @@
         "installButtonText": "Apply",
         "getKeyUrl": "https://arolinks.com/WeGA",
         "buyKeyUrl": "https://t.me/jctoolz0/734",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/3d.jpg",
         "requiredPackage": "com.mobile.legends",
         "requiredVersionExact": "2.1.47.11491",
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you install...",
-        "enableVersionCheck": true
+        "enableVersionCheck": true,
+        "useRewardedInstall": true
       }
     ]
   },
@@ -142,7 +147,7 @@
         "installButtonText": "Apply",
         "getKeyUrl": "",
         "buyKeyUrl": "https://t.me/jctoolz0/734",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/drdmg1.jpg",
         "requiredPackage": "com.mobile.legends",
         "requiredVersionExact": "2.1.47.11491",
@@ -161,7 +166,7 @@
         "installButtonText": "Apply",
         "getKeyUrl": "",
         "buyKeyUrl": "https://t.me/jctoolz0/734",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/drdmg2.jpg",
         "requiredPackage": "com.mobile.legends",
         "requiredVersionExact": "2.1.47.11491",
@@ -180,7 +185,7 @@
         "installButtonText": "Apply",
         "getKeyUrl": "",
         "buyKeyUrl": "https://t.me/jctoolz0/734",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/drdmg3.jpg",
         "requiredPackage": "com.mobile.legends",
         "requiredVersionExact": "2.1.47.11491",
@@ -199,7 +204,7 @@
         "installButtonText": "Apply",
         "getKeyUrl": "",
         "buyKeyUrl": "https://t.me/jctoolz0/734",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/drdmg4.jpg",
         "requiredPackage": "com.mobile.legends",
         "requiredVersionExact": "2.1.47.11491",
@@ -218,7 +223,7 @@
         "installButtonText": "Apply",
         "getKeyUrl": "",
         "buyKeyUrl": "https://t.me/jctoolz0/734",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/drdmg5.jpg",
         "requiredPackage": "com.mobile.legends",
         "requiredVersionExact": "2.1.47.11491",
@@ -246,7 +251,7 @@
         "installButtonText": "Apply",
         "getKeyUrl": "",
         "buyKeyUrl": "https://t.me/jctoolz0/734",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mh1.jpg",
         "requiredPackage": "com.mobile.legends",
         "requiredVersionExact": "2.1.47.11491",
@@ -274,7 +279,7 @@
         "installButtonText": "Apply",
         "getKeyUrl": "",
         "buyKeyUrl": "https://t.me/jctoolz0/734",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/dmgallhero.jpg",
         "requiredPackage": "com.mobile.legends",
         "requiredVersionExact": "2.1.47.11491",
@@ -293,7 +298,7 @@
         "installButtonText": "Apply",
         "getKeyUrl": "",
         "buyKeyUrl": "https://t.me/jctoolz0/734",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/enemylag.jpg",
         "requiredPackage": "com.mobile.legends",
         "requiredVersionExact": "2.1.47.11491",
@@ -312,7 +317,7 @@
         "installButtonText": "Apply",
         "getKeyUrl": "",
         "buyKeyUrl": "https://t.me/jctoolz0/734",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/francoaim.jpg",
         "maintenance": true,
         "maintenanceMessage": "Franco Auto Aim Hook is under maintenance. Please check again later.",
@@ -340,8 +345,9 @@
         "installType": "roblox",
         "installButtonText": "Download",
         "getKeyUrl": "https://arolinks.com/wQeeev",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/crypticexe.jpg"
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/crypticexe.jpg",
+        "useRewardedInstall": true
       },
       {
         "id": "roblox_exe4",
@@ -352,8 +358,9 @@
         "installType": "roblox",
         "installButtonText": "Download",
         "getKeyUrl": "https://arolinks.com/wQeeev",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/codexexe.jpg"
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/codexexe.jpg",
+        "useRewardedInstall": true
       },
       {
         "id": "roblox_exe3",
@@ -364,8 +371,9 @@
         "installType": "roblox",
         "installButtonText": "Download",
         "getKeyUrl": "https://arolinks.com/wQeeev",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/deltaexe.jpg"
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/deltaexe.jpg",
+        "useRewardedInstall": true
       },
       {
         "id": "roblox_exe1",
@@ -376,8 +384,9 @@
         "installType": "roblox",
         "installButtonText": "Download",
         "getKeyUrl": "https://arolinks.com/wQeeev",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/fluxusz.jpg"
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/fluxusz.jpg",
+        "useRewardedInstall": true
       },
       {
         "id": "roblox_exe2",
@@ -388,8 +397,9 @@
         "installType": "roblox",
         "installButtonText": "Download",
         "getKeyUrl": "https://arolinks.com/wQeeev",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/ronix.jpg"
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/ronix.jpg",
+        "useRewardedInstall": true
       }
     ]
   },
@@ -408,8 +418,9 @@
         "installType": "roblox",
         "installButtonText": "Download",
         "getKeyUrl": "https://arolinks.com/uNM1N",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/The Forge Script – Carsonn Hub1.png"
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/The Forge Script – Carsonn Hub1.png",
+        "useRewardedInstall": true
       },
       {
         "id": "roblox_script2",
@@ -420,8 +431,9 @@
         "installType": "roblox",
         "installButtonText": "Download",
         "getKeyUrl": "https://arolinks.com/uNM1N",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/Fish It Script – Trash Hub1.png"
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/Fish It Script – Trash Hub1.png",
+        "useRewardedInstall": true
       },
       {
         "id": "roblox_script3",
@@ -432,8 +444,9 @@
         "installType": "roblox",
         "installButtonText": "Download",
         "getKeyUrl": "https://arolinks.com/uNM1N",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/BLOX FRUITS – REDz Hub1.png"
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/BLOX FRUITS – REDz Hub1.png",
+        "useRewardedInstall": true
       }
     ]
   },
@@ -452,10 +465,11 @@
         "installType": "codm",
         "installButtonText": "Download",
         "getKeyUrl": "https://arolinks.com/odRU1",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/codm1.jpg",
         "maintenance": true,
-        "maintenanceMessage": "CODM MOD MENU V1 is under maintenance. Please check again later."
+        "maintenanceMessage": "CODM MOD MENU V1 is under maintenance. Please check again later.",
+        "useRewardedInstall": true
       },
       {
         "id": "codm_fps2",
@@ -466,10 +480,11 @@
         "installType": "codm",
         "installButtonText": "Download",
         "getKeyUrl": "https://arolinks.com/odRU1",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/codm2.jpg",
         "maintenance": true,
-        "maintenanceMessage": "CODM MOD MENU V2 is under maintenance. Please check again later."
+        "maintenanceMessage": "CODM MOD MENU V2 is under maintenance. Please check again later.",
+        "useRewardedInstall": true
       }
     ]
   },
@@ -488,10 +503,11 @@
         "installType": "crossfire",
         "installButtonText": "Download",
         "getKeyUrl": "https://arolinks.com/FniUv",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/cfl1.jpg",
         "maintenance": true,
-        "maintenanceMessage": "CROSSFIRE MOD V1 is under maintenance. Please check again later."
+        "maintenanceMessage": "CROSSFIRE MOD V1 is under maintenance. Please check again later.",
+        "useRewardedInstall": true
       },
       {
         "id": "crossfire_fps2",
@@ -502,10 +518,11 @@
         "installType": "crossfire",
         "installButtonText": "Download",
         "getKeyUrl": "https://arolinks.com/FniUv",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/cfl2.jpg",
         "maintenance": true,
-        "maintenanceMessage": "CROSSFIRE MOD V2 is under maintenance. Please check again later."
+        "maintenanceMessage": "CROSSFIRE MOD V2 is under maintenance. Please check again later.",
+        "useRewardedInstall": true
       }
     ]
   },
@@ -524,10 +541,11 @@
         "installType": "hok",
         "installButtonText": "Download",
         "getKeyUrl": "https://arolinks.com/xlu5k",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/hok1.jpg",
         "maintenance": true,
-        "maintenanceMessage": "HOK MOD MENU V1 is under maintenance. Please check again later."
+        "maintenanceMessage": "HOK MOD MENU V1 is under maintenance. Please check again later.",
+        "useRewardedInstall": true
       },
       {
         "id": "hok_fps2",
@@ -538,10 +556,11 @@
         "installType": "hok",
         "installButtonText": "Download",
         "getKeyUrl": "https://arolinks.com/xlu5k",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/hok2.jpg",
         "maintenance": true,
-        "maintenanceMessage": "HOK MOD MENU V2 is under maintenance. Please check again later."
+        "maintenanceMessage": "HOK MOD MENU V2 is under maintenance. Please check again later.",
+        "useRewardedInstall": true
       }
     ]
   },
@@ -560,10 +579,11 @@
         "installType": "magicchess",
         "installButtonText": "Download",
         "getKeyUrl": "https://arolinks.com/y1Q4QP",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc1.jpg",
         "maintenance": true,
-        "maintenanceMessage": "Magic Chess Script Map v1 is under maintenance. Please check again later."
+        "maintenanceMessage": "Magic Chess Script Map v1 is under maintenance. Please check again later.",
+        "useRewardedInstall": true
       },
       {
         "id": "magic_fps2",
@@ -574,10 +594,11 @@
         "installType": "magicchess",
         "installButtonText": "Download",
         "getKeyUrl": "https://arolinks.com/y1Q4QP",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc2.jpg",
         "maintenance": true,
-        "maintenanceMessage": "Magic Chess Script Map v2 is under maintenance. Please check again later."
+        "maintenanceMessage": "Magic Chess Script Map v2 is under maintenance. Please check again later.",
+        "useRewardedInstall": true
       },
       {
         "id": "magic_fps3",
@@ -588,10 +609,11 @@
         "installType": "magicchess",
         "installButtonText": "Download",
         "getKeyUrl": "https://arolinks.com/y1Q4QP",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc3.jpg",
         "maintenance": true,
-        "maintenanceMessage": "Magic Chess Script Map v3 is under maintenance. Please check again later."
+        "maintenanceMessage": "Magic Chess Script Map v3 is under maintenance. Please check again later.",
+        "useRewardedInstall": true
       },
       {
         "id": "magic_fps4",
@@ -602,10 +624,11 @@
         "installType": "magicchess",
         "installButtonText": "Download",
         "getKeyUrl": "https://arolinks.com/y1Q4QP",
-        "howToGetKeyUrl": "https://youtu.be/0ubgEM1MjLk?si=6DPJvghASYnvMvi9",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mc4.jpg",
         "maintenance": true,
-        "maintenanceMessage": "Magic Chess Script Map v4 is under maintenance. Please check again later."
+        "maintenanceMessage": "Magic Chess Script Map v4 is under maintenance. Please check again later.",
+        "useRewardedInstall": true
       }
     ]
   }
