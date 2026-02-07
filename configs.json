@@ -462,7 +462,7 @@
         "titleColor": "#FFA500",
         "description": "Safe and Smooth",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/CODM1.zip",
-        "useRewardedInstall": true
+        "useRewardedInstall": true,
         "installType": "codm",
         "installButtonText": "Download",
         "getKeyUrl": "https://arolinks.com/odRU1",
