@@ -41,7 +41,7 @@
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
         "enableVersionCheck": true,
-        "useRewardedInstall": true
+        "useRewardedInstall": false
       },
       {
         "id": "mlbb_drone3",
@@ -454,7 +454,7 @@
     "category": "MOD MENU (CODM)",
     "subtitle": "(CODM)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
-    "adblockCheck": true,
+    "adblockCheck": false,
     "items": [
       {
         "id": "codm_fps1",
