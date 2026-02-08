@@ -7,7 +7,7 @@
     "items": [
       {
         "id": "mlbb_drone1",
-        "title": "Drone View 1x1",
+        "title": "Drone View 1x11",
         "titleColor": "#FFA500",
         "description": "Updated: 2/3/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/newdrone1.zip",
@@ -406,7 +406,6 @@
   {
     "category": "Scripts (Roblox)",
     "subtitle": "(Roblox)(Free)(Safe)(Smooth)",
-    "uid": "6041516",
     "color": "#FFD700",
     "adblockCheck": true,
     "items": [
