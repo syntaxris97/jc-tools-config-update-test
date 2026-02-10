@@ -7,13 +7,13 @@
     "items": [
       {
         "id": "mlbb_drone1",
-        "title": "Drone View 1x1",
+        "title": "Drone View 1x",
         "titleColor": "#FFA500",
         "description": "Updated: 2/9/2026 (9:12 PM)",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/feb9drn1.zip",
         "installType": "mlbb",
         "installButtonText": "Apply",
-        "getKeyUrl": "https://arolinks.com/ilLTW",
+        "getKeyUrl": "", //https://arolinks.com/ilLTW
         "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview1.jpg",
         "requiredPackage": "com.mobile.legends",
