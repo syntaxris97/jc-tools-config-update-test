@@ -7,7 +7,7 @@
     "items": [
       {
         "id": "mlbb_drone1",
-        "title": "Drone View Horizontal 1x1",
+        "title": "Drone View Horizontal 1x11",
         "titleColor": "#FFA500",
         "description": "Updated: 2/11/2026 (10:15 AM)",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/feb11hdrn1.zip",
@@ -756,6 +756,19 @@
     "color": "#FFD700",
     "adblockCheck": true,
     "items": [
+      {
+        "id": "roblox_script4",
+        "title": "Fish It Script – Trash Hub",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://scriptpastebins.com/chiyo-hub-abyss/",
+        "installType": "roblox",
+        "installButtonText": "Download",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/Fish It Script – Trash Hub1.png",
+        "useRewardedInstall": true
+      },
       {
         "id": "roblox_script1",
         "title": "The Forge Script – Carsonn Hub",
