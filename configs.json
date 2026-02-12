@@ -470,14 +470,14 @@
     ]
   },
   {
-    "category": "Anti FPS Drop & Smooth Gameplay",
+    "category": "Anti FPS drop for smoother gameplay",
     "subtitle": "(MLBB)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
     "adblockCheck": true,
     "items": [
       {
         "id": "antifps1",
-        "title": "Anti FPS Drop & Smooth Gameplay",
+        "title": "Anti FPS drop for smoother gameplay",
         "titleColor": "#FFA500",
         "description": "Updated: 2/12/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/fpsscrpt.zip",
@@ -495,7 +495,7 @@
         "enableVersionCheck": true,
         "useRewardedInstall": true,
         "maintenance": false,
-        "maintenanceMessage": "Anti FPS Drop / Smooth Gameplay is under maintenance. Please check again later."
+        "maintenanceMessage": "Anti FPS drop for smoother gameplay is under maintenance. Please check again later."
       }
     ]
   },
@@ -670,7 +670,7 @@
     "items": [
       {
         "id": "mlbb_antilag",
-        "title": "Low Ping / Anti Lag & FPS Drop (VIP)",
+        "title": "Low ping / anti-lag to reduce FPS drops",
         "titleColor": "#FFA500",
         "description": "Updated: 2/12/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/lowping.zip",
