@@ -396,14 +396,14 @@
     ]
   },
   {
-    "category": "Santum Island Smooth Map",
+    "category": "Sanctum Island Smooth Map",
     "subtitle": "(MLBB)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
     "adblockCheck": true,
     "items": [
       {
         "id": "map1",
-        "title": "Santum Island Smooth Map ( Low )",
+        "title": "Sanctum Island Smooth Map ( Low )",
         "titleColor": "#FFA500",
         "description": "Updated: 2/12/2026\n( Set the Map Quality: Low )",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/smoothlow.zip",
@@ -421,11 +421,11 @@
         "enableVersionCheck": true,
         "useRewardedInstall": true,
         "maintenance": false,
-        "maintenanceMessage": "Santum Island Smooth Map ( Low ) is under maintenance. Please check again later."
+        "maintenanceMessage": "Sanctum Island Smooth Map ( Low ) is under maintenance. Please check again later."
       },
       {
         "id": "map2",
-        "title": "Santum Island Smooth Map ( Medium )",
+        "title": "Sanctum Island Smooth Map ( Medium )",
         "titleColor": "#FFA500",
         "description": "Updated: 2/12/2026\n( Set the Map Quality: Medium )",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/smoothmedium.zip",
@@ -443,11 +443,11 @@
         "enableVersionCheck": true,
         "useRewardedInstall": true,
         "maintenance": false,
-        "maintenanceMessage": "Santum Island Smooth Map ( Medium ) is under maintenance. Please check again later."
+        "maintenanceMessage": "Sanctum Island Smooth Map ( Medium ) is under maintenance. Please check again later."
       },
       {
         "id": "map3",
-        "title": "Santum Island Smooth Map ( High )",
+        "title": "Sanctum Island Smooth Map ( High )",
         "titleColor": "#FFA500",
         "description": "Updated: 2/12/2026\n( Set the Map Quality: High )",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/smoothhigh.zip",
@@ -465,7 +465,7 @@
         "enableVersionCheck": true,
         "useRewardedInstall": true,
         "maintenance": false,
-        "maintenanceMessage": "Santum Island Smooth Map ( High ) is under maintenance. Please check again later."
+        "maintenanceMessage": "Sanctum Island Smooth Map ( High ) is under maintenance. Please check again later."
       }
     ]
   },
@@ -668,6 +668,25 @@
     "vipOnly": true,
     "adblockCheck": false,
     "items": [
+      {
+        "id": "mlbb_antilag",
+        "title": "Low Ping / Anti Lag & FPS Drop (VIP)",
+        "titleColor": "#FFA500",
+        "description": "Updated: 2/12/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/lowping.zip",
+        "installType": "mlbb",
+        "installButtonText": "Apply",
+        "getKeyUrl": "",
+        "buyKeyUrl": "https://t.me/jctoolz0/734",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/lowping.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.47.11491",
+        "updateUrl": "https://linktr.ee/paowkw",
+        "versionDialogTitle": "Mismatch MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true
+      },
       {
         "id": "mlbb_allherodmg",
         "title": "+Damage to all Hero (VIP)",
