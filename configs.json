@@ -884,6 +884,19 @@
     "adblockCheck": true,
     "items": [
       {
+        "id": "roblox_script9",
+        "title": "Blox Fruits Script – Hoho Hub",
+        "titleColor": "#FFA500",
+        "description": "Updated: 2/17/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/RobloxScript9.zip",
+        "installType": "roblox",
+        "installButtonText": "Download",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/RobloxScript9.png",
+        "useRewardedInstall": true
+      },
+      {
         "id": "roblox_script8",
         "title": "Fisch Script – Shield Hub",
         "titleColor": "#FFA500",
