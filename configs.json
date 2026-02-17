@@ -432,7 +432,7 @@
         "enableVersionCheck": true,
         "useRewardedInstall": true,
         "maintenance": true,
-        "maintenanceMessage": "3D View is under maintenance. Please check again later."
+        "maintenanceMessage": "3D View is under maintenance. Please check again later.",
         "tabKey": "3dview"
       }
     ]
