@@ -3,8 +3,13 @@
     "category": "Drone View Horizontal 1-10x",
     "subtitle": "(MLBB)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mhnew.jpg",
     "adblockCheck": true,
+    "tabs": [
+      { "key": "all", "label": "All" },
+      { "key": "desert", "label": "Drone Horizontal" },
+      { "key": "island", "label": "Drone Vertical" }
+    ],
     "items": [
       {
         "id": "mlbb_drone1",
