@@ -14,7 +14,7 @@
     "items": [
       {
         "id": "mlbb_drone1",
-        "title": "Drone View Horizontal 1x11",
+        "title": "Drone View Horizontal 1x1",
         "titleColor": "#FFA500",
         "description": "Updated: 2/11/2026 (10:15 AM)",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/feb11hdrn1.zip",
@@ -666,6 +666,7 @@
       "enableVersionCheck": true,
       "useRewardedInstall": true,
       "maintenance": false,
+      "readMessage": "If it doesn't work after you click apply, download all the resources first and try it again.",
       "tabKey": "desert"
     },
 
