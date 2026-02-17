@@ -7,13 +7,14 @@
     "adblockCheck": true,
     "tabs": [
       { "key": "all", "label": "All" },
-      { "key": "desert", "label": "Drone Horizontal" },
-      { "key": "island", "label": "Drone Vertical" }
+      { "key": "horizontal", "label": "Drone Horizontal" },
+      { "key": "vertical", "label": "Drone Vertical" },
+      { "key": "3dview", "label": "3D View" }
     ],
     "items": [
       {
         "id": "mlbb_drone1",
-        "title": "Drone View Horizontal 1x1",
+        "title": "Drone View Horizontal 1x11",
         "titleColor": "#FFA500",
         "description": "Updated: 2/11/2026 (10:15 AM)",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/feb11hdrn1.zip",
@@ -28,7 +29,8 @@
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
         "enableVersionCheck": true,
-        "useRewardedInstall": true
+        "useRewardedInstall": true,
+        "tabKey": "horizontal"
       },
       {
         "id": "mlbb_drone2",
@@ -47,7 +49,8 @@
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
         "enableVersionCheck": true,
-        "useRewardedInstall": true
+        "useRewardedInstall": true,
+        "tabKey": "horizontal"
       },
       {
         "id": "mlbb_drone3",
@@ -66,7 +69,8 @@
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
         "enableVersionCheck": true,
-        "useRewardedInstall": true
+        "useRewardedInstall": true,
+        "tabKey": "horizontal"
       },
       {
         "id": "mlbb_drone4",
@@ -85,7 +89,8 @@
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
         "enableVersionCheck": true,
-        "useRewardedInstall": true
+        "useRewardedInstall": true,
+        "tabKey": "horizontal"
       },
       {
         "id": "mlbb_drone5",
@@ -104,7 +109,8 @@
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
         "enableVersionCheck": true,
-        "useRewardedInstall": true
+        "useRewardedInstall": true,
+        "tabKey": "horizontal"
       },
       {
         "id": "mlbb_drone6",
@@ -123,7 +129,8 @@
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
         "enableVersionCheck": true,
-        "useRewardedInstall": true
+        "useRewardedInstall": true,
+        "tabKey": "horizontal"
       },
       {
         "id": "mlbb_drone7",
@@ -142,7 +149,8 @@
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
         "enableVersionCheck": true,
-        "useRewardedInstall": true
+        "useRewardedInstall": true,
+        "tabKey": "horizontal"
       },
       {
         "id": "mlbb_drone8",
@@ -161,7 +169,8 @@
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
         "enableVersionCheck": true,
-        "useRewardedInstall": true
+        "useRewardedInstall": true,
+        "tabKey": "horizontal"
       },
       {
         "id": "mlbb_drone9",
@@ -180,7 +189,8 @@
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
         "enableVersionCheck": true,
-        "useRewardedInstall": true
+        "useRewardedInstall": true,
+        "tabKey": "horizontal"
       },
       {
         "id": "mlbb_drone10",
@@ -199,7 +209,231 @@
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
         "enableVersionCheck": true,
-        "useRewardedInstall": true
+        "useRewardedInstall": true,
+        "tabKey": "horizontal"
+      },
+      {
+        "id": "mlbb_drone1",
+        "title": "Drone View Vertical 1x",
+        "titleColor": "#FFA500",
+        "description": "Updated: 2/11/2026 (10:15 AM)",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/feb11vdrn1.zip",
+        "installType": "mlbb",
+        "installButtonText": "Apply",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview1.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.47.11491",
+        "updateUrl": "https://linktr.ee/paowkw",
+        "versionDialogTitle": "Mismatch MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true,
+        "useRewardedInstall": true,
+        "tabKey": "vertical"
+      },
+      {
+        "id": "mlbb_drone2",
+        "title": "Drone View Vertical 2x",
+        "titleColor": "#FFA500",
+        "description": "Updated: 2/11/2026 (10:15 AM)",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/feb11vdrn2.zip",
+        "installType": "mlbb",
+        "installButtonText": "Apply",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview2.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.47.11491",
+        "updateUrl": "https://linktr.ee/paowkw",
+        "versionDialogTitle": "Mismatch MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true,
+        "useRewardedInstall": true,
+        "tabKey": "vertical"
+      },
+      {
+        "id": "mlbb_drone3",
+        "title": "Drone View Vertical 3x",
+        "titleColor": "#FFA500",
+        "description": "Updated: 2/11/2026 (10:15 AM)",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/feb11vdrn3.zip",
+        "installType": "mlbb",
+        "installButtonText": "Apply",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview3.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.47.11491",
+        "updateUrl": "https://linktr.ee/paowkw",
+        "versionDialogTitle": "Mismatch MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true,
+        "useRewardedInstall": true,
+        "tabKey": "vertical"
+      },
+      {
+        "id": "mlbb_drone4",
+        "title": "Drone View Vertical 4x",
+        "titleColor": "#FFA500",
+        "description": "Updated: 2/11/2026 (10:15 AM)",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/feb11vdrn4.zip",
+        "installType": "mlbb",
+        "installButtonText": "Apply",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview4.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.47.11491",
+        "updateUrl": "https://linktr.ee/paowkw",
+        "versionDialogTitle": "Mismatch MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true,
+        "useRewardedInstall": true,
+        "tabKey": "vertical"
+      },
+      {
+        "id": "mlbb_drone5",
+        "title": "Drone View Vertical 5x",
+        "titleColor": "#FFA500",
+        "description": "Updated: 2/11/2026 (10:15 AM)",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/feb11vdrn5.zip",
+        "installType": "mlbb",
+        "installButtonText": "Apply",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview5.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.47.11491",
+        "updateUrl": "https://linktr.ee/paowkw",
+        "versionDialogTitle": "Mismatch MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true,
+        "useRewardedInstall": true,
+        "tabKey": "vertical"
+      },
+      {
+        "id": "mlbb_drone6",
+        "title": "Drone View Vertical 6x",
+        "titleColor": "#FFA500",
+        "description": "Updated: 2/11/2026 (10:15 AM)",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/feb11vdrn6.zip",
+        "installType": "mlbb",
+        "installButtonText": "Apply",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview6.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.47.11491",
+        "updateUrl": "https://linktr.ee/paowkw",
+        "versionDialogTitle": "Mismatch MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true,
+        "useRewardedInstall": true,
+        "tabKey": "vertical"
+      },
+      {
+        "id": "mlbb_drone7",
+        "title": "Drone View Vertical 7x",
+        "titleColor": "#FFA500",
+        "description": "Updated: 2/11/2026 (10:15 AM)",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/feb11vdrn7.zip",
+        "installType": "mlbb",
+        "installButtonText": "Apply",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview7.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.47.11491",
+        "updateUrl": "https://linktr.ee/paowkw",
+        "versionDialogTitle": "Mismatch MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true,
+        "useRewardedInstall": true,
+        "tabKey": "vertical"
+      },
+      {
+        "id": "mlbb_drone8",
+        "title": "Drone View Vertical 8x",
+        "titleColor": "#FFA500",
+        "description": "Updated: 2/11/2026 (10:15 AM)",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/feb11vdrn8.zip",
+        "installType": "mlbb",
+        "installButtonText": "Apply",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview8.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.47.11491",
+        "updateUrl": "https://linktr.ee/paowkw",
+        "versionDialogTitle": "Mismatch MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true,
+        "useRewardedInstall": true,
+        "tabKey": "vertical"
+      },
+      {
+        "id": "mlbb_drone9",
+        "title": "Drone View Vertical 9x",
+        "titleColor": "#FFA500",
+        "description": "Updated: 2/11/2026 (10:15 AM)",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/feb11vdrn9.zip",
+        "installType": "mlbb",
+        "installButtonText": "Apply",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview9.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.47.11491",
+        "updateUrl": "https://linktr.ee/paowkw",
+        "versionDialogTitle": "Mismatch MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true,
+        "useRewardedInstall": true,
+        "tabKey": "vertical"
+      },
+      {
+        "id": "mlbb_drone10",
+        "title": "Drone View Vertical 10x",
+        "titleColor": "#FFA500",
+        "description": "Updated: 2/11/2026 (10:15 AM)",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/feb11vdrn10.zip",
+        "installType": "mlbb",
+        "installButtonText": "Apply",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/droneview10.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.47.11491",
+        "updateUrl": "https://linktr.ee/paowkw",
+        "versionDialogTitle": "Mismatch MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
+        "enableVersionCheck": true,
+        "useRewardedInstall": true,
+        "tabKey": "vertical"
+      },
+      {
+        "id": "3dv",
+        "title": "3D View",
+        "titleColor": "#FFA500",
+        "description": "Updated: 2/3/2026\n( Set the Camera Height: Low )",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/3d.zip",
+        "installType": "mlbb",
+        "installButtonText": "Apply",
+        "getKeyUrl": "",
+        "buyKeyUrl": "https://t.me/jctoolz0/734",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/3d.jpg",
+        "requiredPackage": "com.mobile.legends",
+        "requiredVersionExact": "2.1.47.11491",
+        "updateUrl": "https://linktr.ee/paowkw",
+        "versionDialogTitle": "Mismatch MLBB Version Detected",
+        "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you install...",
+        "enableVersionCheck": true,
+        "useRewardedInstall": true,
+        "maintenance": true,
+        "maintenanceMessage": "3D View is under maintenance. Please check again later."
+        "tabKey": "3dview"
       }
     ]
   },
