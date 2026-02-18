@@ -1460,6 +1460,84 @@
     ]
   },
   {
+    "category": "MOD MENU ( 8 Ball Pool )",
+    "subtitle": "(8BP)(Free)(Safe)(Smooth)",
+    "uid": "6041516",
+    "color": "#FFD700",
+    "adblockCheck": true,
+    "items": [
+      {
+        "id": "8b_fps1",
+        "title": "8 Ball Pool MOD MENU V1",
+        "titleColor": "#FFA500",
+        "description": "Updated: 2/18/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/HOK1.zip",
+        "installType": "8ball",
+        "installButtonText": "Download",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/hok1.jpg",
+        "maintenance": true,
+        "maintenanceMessage": "HOK MOD MENU V1 is under maintenance. Please check again later.",
+        "useRewardedInstall": true
+      },
+      {
+        "id": "8b_fps2",
+        "title": "8 Ball Pool MOD MENU v2",
+        "titleColor": "#FFA500",
+        "description": "Updated: 2/18/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/HOK2.zip",
+        "installType": "8ball",
+        "installButtonText": "Download",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/hok2.jpg",
+        "maintenance": true,
+        "maintenanceMessage": "HOK MOD MENU V2 is under maintenance. Please check again later.",
+        "useRewardedInstall": true
+      }
+    ]
+  },
+    {
+    "category": "MOD MENU (PUBG mobile)",
+    "subtitle": "(PUBG)(Free)(Safe)(Smooth)",
+    "uid": "6041516",
+    "color": "#FFD700",
+    "adblockCheck": true,
+    "items": [
+      {
+        "id": "pubg_fps1",
+        "title": "PUBG MOD MENU V1",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/HOK1.zip",
+        "installType": "pubg",
+        "installButtonText": "Download",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/hok1.jpg",
+        "maintenance": true,
+        "maintenanceMessage": "HOK MOD MENU V1 is under maintenance. Please check again later.",
+        "useRewardedInstall": true
+      },
+      {
+        "id": "pubg_fps2",
+        "title": "PUBG MOD MENU v2",
+        "titleColor": "#FFA500",
+        "description": "Updated: 1/10/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/HOK2.zip",
+        "installType": "pubg",
+        "installButtonText": "Download",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/hok2.jpg",
+        "maintenance": true,
+        "maintenanceMessage": "HOK MOD MENU V2 is under maintenance. Please check again later.",
+        "useRewardedInstall": true
+      }
+    ]
+  },
+    {
     "category": "MOD MENU (Honor of Kings)",
     "subtitle": "(HOK)(Free)(Safe)(Smooth)",
     "uid": "6041516",
