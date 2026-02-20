@@ -574,7 +574,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "vipOnly": true,
-        "adblockCheck": true,
+        "adblockCheck": false,
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
         "enableVersionCheck": true
       }
