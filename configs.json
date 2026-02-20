@@ -1,6 +1,6 @@
 [
   {
-    "category": "Drone Views1",
+    "category": "Drone Views",
     "subtitle": "(MLBB)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
     "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mhnew.jpg",
@@ -527,6 +527,7 @@
         "enableVersionCheck": true,
         "maintenance": true,
         "vipOnly": true,
+        "readMessage": "If it doesn't work after you click apply, download all the resources first and try it again.",
         "maintenanceMessage": "Franco Auto Aim Hook is under maintenance. Please check again later."
       },
       {
