@@ -1,6 +1,6 @@
 [
   {
-    "category": "Drone Views",
+    "category": "Drone Views1",
     "subtitle": "(MLBB)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
     "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mhnew.jpg",
@@ -443,6 +443,7 @@
     "subtitle": "(MLBB)(VIP)(Safe)(Smooth)",
     "color": "#FFD700",
     "adblockCheck": false,
+    "adblockCheck": true,
     "items": [
       {
         "id": "antifps1",
@@ -527,6 +528,7 @@
         "enableVersionCheck": true,
         "maintenance": true,
         "vipOnly": true,
+        "adblockCheck": false,
         "readMessage": "If it doesn't work after you click apply, download all the resources first and try it again.",
         "maintenanceMessage": "Franco Auto Aim Hook is under maintenance. Please check again later."
       },
@@ -550,6 +552,7 @@
         "enableVersionCheck": true,
         "maintenance": true,
         "vipOnly": true,
+        "adblockCheck": false,
         "maintenanceMessage": "Franco Auto Aim Hook is under maintenance. Please check again later."
       },
       {
@@ -571,6 +574,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "vipOnly": true,
+        "adblockCheck": true,
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
         "enableVersionCheck": true
       }
