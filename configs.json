@@ -510,9 +510,9 @@
       },
       {
         "id": "mlbb_allherodmg",
-        "title": "+Damage to all Hero (VIP)",
+        "title": "+Damage to all Hero 1 (VIP)",
         "titleColor": "#FFA500",
-        "description": "Updated: 2/3/2026 (9:52 AM)",
+        "description": "Updated: 2/3/2026 (9:52 AM)\n\n ",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/dmgallhero.zip",
         "installType": "mlbb",
         "installButtonText": "Apply",
