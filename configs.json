@@ -1241,7 +1241,7 @@
   {
     "category": "MOD MENU ( 8 Ball Pool )",
     "subtitle": "(8BP)(Free)(Safe)(Smooth)",
-    "uid": "6041516",
+    "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/8bcat.jpg",
     "color": "#FFD700",
     "adblockCheck": true,
     "items": [
@@ -1255,7 +1255,7 @@
         "installButtonText": "Download",
         "getKeyUrl": "",
         "howToGetKeyUrl": "https://t.me/jctoolz0/750",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/hok1.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/8b1.jpg",
         "maintenance": true,
         "maintenanceMessage": "HOK MOD MENU V1 is under maintenance. Please check again later.",
         "useRewardedInstall": true
@@ -1270,7 +1270,7 @@
         "installButtonText": "Download",
         "getKeyUrl": "",
         "howToGetKeyUrl": "https://t.me/jctoolz0/750",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/hok2.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/8b1.jpg",
         "maintenance": true,
         "maintenanceMessage": "HOK MOD MENU V2 is under maintenance. Please check again later.",
         "useRewardedInstall": true
@@ -1280,7 +1280,6 @@
     {
     "category": "MOD MENU (PUBG mobile)",
     "subtitle": "(PUBG)(Free)(Safe)(Smooth)",
-    "uid": "6041516",
     "color": "#FFD700",
     "adblockCheck": true,
     "items": [
