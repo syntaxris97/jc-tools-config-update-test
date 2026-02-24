@@ -1355,14 +1355,14 @@
     ]
   },
   {
-    "category": "Magic Chess Map Script",
+    "category": "Magic Chess Custom Map",
     "subtitle": "(MC)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
     "adblockCheck": true,
     "items": [
       {
         "id": "magic_fps1",
-        "title": "Magic Chess Script Map v1",
+        "title": "Magic Chess Custom Map v1",
         "titleColor": "#FFA500",
         "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Magic.Chess1.zip",
@@ -1377,7 +1377,7 @@
       },
       {
         "id": "magic_fps2",
-        "title": "Magic Chess Script Map v2",
+        "title": "Magic Chess Custom Map v2",
         "titleColor": "#FFA500",
         "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Magic.Chess1.zip",
@@ -1392,7 +1392,7 @@
       },
       {
         "id": "magic_fps3",
-        "title": "Magic Chess Script Map v3",
+        "title": "Magic Chess Custom Map v3",
         "titleColor": "#FFA500",
         "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Magic.Chess1.zip",
@@ -1407,7 +1407,7 @@
       },
       {
         "id": "magic_fps4",
-        "title": "Magic Chess Script Map v4",
+        "title": "Magic Chess Custom Map v4",
         "titleColor": "#FFA500",
         "description": "Updated: 1/10/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/Magic.Chess1.zip",
