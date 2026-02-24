@@ -439,7 +439,7 @@
     ]
   },
   {
-    "category": "Rank Booster (VIP)",
+    "category": "Rank Booster",
     "subtitle": "(MLBB)(VIP)(Safe)(Smooth)",
     "color": "#FFD700",
     "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/rankcat.jpg",
@@ -751,7 +751,7 @@
   ]
   },
   {
-    "category": "Extra Damage + Drone Views (VIP)",
+    "category": "Extra Damage + Drone Views",
     "subtitle": "(MLBB)(VIP)(Safe)(Smooth)",
     "color": "#FFD700",
     "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/extracat.jpg",
@@ -856,7 +856,7 @@
     ]
   },
   {
-    "category": "Map Hack (VIP)",
+    "category": "Map Hack",
     "subtitle": "(MLBB)(VIP)(Safe)(Smooth)",
     "color": "#FFD700",
     "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mhnew.jpg",
@@ -888,6 +888,7 @@
     "category": "Executors (Roblox)",
     "subtitle": "(Roblox)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
+    "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/execat.jpg",
     "adblockCheck": true,
     "items": [
       {
@@ -1013,6 +1014,7 @@
     "category": "Scripts (Roblox)",
     "subtitle": "(Roblox)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
+    "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/scriptcat.jpg",
     "adblockCheck": true,
     "items": [
       {
