@@ -3,7 +3,7 @@
     "category": "Drone Views",
     "subtitle": "(MLBB)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
-    "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mhnew.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/dronecat.jpg",
     "adblockCheck": true,
     "tabs": [
       { "key": "all", "label": "All" },
@@ -14,10 +14,10 @@
     "items": [
       {
         "id": "mlbb_drone1",
-        "title": "Drone View Horizontal 1x1",
+        "title": "Drone View Horizontal 1x",
         "titleColor": "#FFA500",
         "description": "Updated: 2/11/2026 (10:15 AM)",
-        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/feb11hdrn11.zip",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/feb11hdrn1.zip",
         "installType": "mlbb",
         "installButtonText": "Apply",
         "getKeyUrl": "",
@@ -442,7 +442,7 @@
     "category": "Rank Booster (VIP)",
     "subtitle": "(MLBB)(VIP)(Safe)(Smooth)",
     "color": "#FFD700",
-    "adblockCheck": false,
+    "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/rankcat.jpg",
     "adblockCheck": true,
     "items": [
       {
@@ -584,6 +584,7 @@
   "category": "Custom Map",
   "subtitle": "(MLBB)(Free)(Safe)(Smooth)",
   "color": "#FFD700",
+  "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/customcat.jpg",
   "adblockCheck": true,
   "tabs": [
     { "key": "all", "label": "All" },
@@ -753,6 +754,7 @@
     "category": "Extra Damage + Drone Views (VIP)",
     "subtitle": "(MLBB)(VIP)(Safe)(Smooth)",
     "color": "#FFD700",
+    "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/extracat.jpg",
     "vipOnly": true,
     "adblockCheck": false,
     "items": [
@@ -857,6 +859,7 @@
     "category": "Map Hack (VIP)",
     "subtitle": "(MLBB)(VIP)(Safe)(Smooth)",
     "color": "#FFD700",
+    "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/mhnew.jpg",
     "vipOnly": true,
     "adblockCheck": false,
     "items": [
