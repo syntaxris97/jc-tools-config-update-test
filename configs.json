@@ -68,7 +68,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "vipOnly": false,
         "tabKey": "horizontal"
@@ -109,7 +109,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "tabKey": "horizontal"
       },
@@ -129,7 +129,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "tabKey": "horizontal"
       },
@@ -149,7 +149,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "tabKey": "horizontal"
       },
@@ -169,7 +169,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "tabKey": "horizontal"
       },
@@ -189,7 +189,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "tabKey": "horizontal"
       },
@@ -209,7 +209,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "tabKey": "horizontal"
       },
@@ -229,7 +229,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "tabKey": "horizontal"
       },
@@ -249,7 +249,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "tabKey": "vertical"
       },
@@ -269,7 +269,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "tabKey": "vertical"
       },
@@ -289,7 +289,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "tabKey": "vertical"
       },
@@ -309,7 +309,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "tabKey": "vertical"
       },
@@ -329,7 +329,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "tabKey": "vertical"
       },
@@ -349,7 +349,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "tabKey": "vertical"
       },
@@ -369,7 +369,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "tabKey": "vertical"
       },
@@ -389,7 +389,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "tabKey": "vertical"
       },
@@ -409,7 +409,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "tabKey": "vertical"
       },
@@ -429,7 +429,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "tabKey": "vertical"
       },
@@ -449,7 +449,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "tabKey": "vertical"
       },
@@ -470,7 +470,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you install...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "maintenance": true,
         "maintenanceMessage": "3D View is under maintenance. Please check again later.",
@@ -502,7 +502,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you install...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "useRewardedInstall": true,
         "maintenance": false,
         "maintenanceMessage": "Anti FPS drop for smoother gameplay is under maintenance. Please check again later."
@@ -524,7 +524,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true,
+        "enableVersionCheck": false,
         "readMessage": "If it doesn't work after you click apply, download all the resources first and try it again.",
         "useRewardedInstall": true
       },
@@ -596,7 +596,7 @@
         "vipOnly": true,
         "adblockCheck": false,
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true
+        "enableVersionCheck": false
       }
     ]
   },
@@ -631,7 +631,7 @@
       "updateUrl": "https://linktr.ee/paowkw",
       "versionDialogTitle": "Mismatch MLBB Version Detected",
       "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nPlease update to version (%s) before installing.",
-      "enableVersionCheck": true,
+      "enableVersionCheck": false,
       "useRewardedInstall": true,
       "maintenance": false,
       "tabKey": "mpl"
@@ -653,7 +653,7 @@
       "updateUrl": "https://linktr.ee/paowkw",
       "versionDialogTitle": "Mismatch MLBB Version Detected",
       "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nPlease update to version (%s) before installing.",
-      "enableVersionCheck": true,
+      "enableVersionCheck": false,
       "useRewardedInstall": true,
       "maintenance": false,
       "tabKey": "sunset"
@@ -675,7 +675,7 @@
       "updateUrl": "https://linktr.ee/paowkw",
       "versionDialogTitle": "Mismatch MLBB Version Detected",
       "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nPlease update to version (%s) before installing.",
-      "enableVersionCheck": true,
+      "enableVersionCheck": false,
       "useRewardedInstall": true,
       "maintenance": false,
       "tabKey": "sunset"
@@ -697,7 +697,7 @@
       "updateUrl": "https://linktr.ee/paowkw",
       "versionDialogTitle": "Mismatch MLBB Version Detected",
       "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nPlease update to version (%s) before installing.",
-      "enableVersionCheck": true,
+      "enableVersionCheck": false,
       "useRewardedInstall": true,
       "maintenance": false,
       "tabKey": "sunset"
@@ -719,9 +719,10 @@
       "updateUrl": "https://linktr.ee/paowkw",
       "versionDialogTitle": "Mismatch MLBB Version Detected",
       "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nPlease update to version (%s) before installing.",
-      "enableVersionCheck": true,
+      "enableVersionCheck": false,
       "useRewardedInstall": true,
-      "maintenance": false,
+      "maintenance": true,
+      "maintenanceMessage": "Sanctum Island Desert Smooth Map ( Ultra ) is under maintenance. Please check again later.",
       "readMessage": "If it doesn't work after you click apply, download all the resources first and try it again.",
       "tabKey": "desert"
     },
@@ -742,9 +743,10 @@
       "updateUrl": "https://linktr.ee/paowkw",
       "versionDialogTitle": "Mismatch MLBB Version Detected",
       "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nPlease update to version (%s) before installing.",
-      "enableVersionCheck": true,
+      "enableVersionCheck": false,
       "useRewardedInstall": true,
-      "maintenance": false,
+      "maintenance": true,
+      "maintenanceMessage": "Sanctum Island Desert Smooth Map ( High ) is under maintenance. Please check again later.",
       "tabKey": "desert"
     },
 
@@ -764,9 +766,10 @@
       "updateUrl": "https://linktr.ee/paowkw",
       "versionDialogTitle": "Mismatch MLBB Version Detected",
       "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nPlease update to version (%s) before installing.",
-      "enableVersionCheck": true,
+      "enableVersionCheck": false,
       "useRewardedInstall": true,
-      "maintenance": false,
+      "maintenance": true,
+      "maintenanceMessage": "Sanctum Island Desert Smooth Map ( Medium ) is under maintenance. Please check again later.",
       "tabKey": "desert"
     },
 
@@ -786,9 +789,10 @@
       "updateUrl": "https://linktr.ee/paowkw",
       "versionDialogTitle": "Mismatch MLBB Version Detected",
       "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nPlease update to version (%s) before installing.",
-      "enableVersionCheck": true,
+      "enableVersionCheck": false,
       "useRewardedInstall": true,
-      "maintenance": false,
+      "maintenance": true,
+      "maintenanceMessage": "Sanctum Island Desert Smooth Map ( Low ) is under maintenance. Please check again later.",
       "tabKey": "desert"
     },
 
@@ -808,9 +812,10 @@
       "updateUrl": "https://linktr.ee/paowkw",
       "versionDialogTitle": "Mismatch MLBB Version Detected",
       "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nPlease update to version (%s) before installing.",
-      "enableVersionCheck": true,
+      "enableVersionCheck": false,
       "useRewardedInstall": true,
-      "maintenance": false,
+      "maintenance": true,
+      "maintenanceMessage": "Sanctum Island Smooth Map ( Low ) is under maintenance. Please check again later.",
       "tabKey": "island"
     },
 
@@ -830,9 +835,10 @@
       "updateUrl": "https://linktr.ee/paowkw",
       "versionDialogTitle": "Mismatch MLBB Version Detected",
       "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nPlease update to version (%s) before installing.",
-      "enableVersionCheck": true,
+      "enableVersionCheck": false,
       "useRewardedInstall": true,
-      "maintenance": false,
+      "maintenance": true,
+      "maintenanceMessage": "Sanctum Island Smooth Map ( Medium ) is under maintenance. Please check again later.",
       "tabKey": "island"
     },
 
@@ -852,9 +858,10 @@
       "updateUrl": "https://linktr.ee/paowkw",
       "versionDialogTitle": "Mismatch MLBB Version Detected",
       "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nPlease update to version (%s) before installing.",
-      "enableVersionCheck": true,
+      "enableVersionCheck": false,
       "useRewardedInstall": true,
-      "maintenance": false,
+      "maintenance": true,
+      "maintenanceMessage": "Sanctum Island Smooth Map ( High ) is under maintenance. Please check again later.",
       "tabKey": "island"
     }
 
@@ -885,7 +892,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true
+        "enableVersionCheck": false
       },
       {
         "id": "mlbb_dronedmg2",
@@ -904,7 +911,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true
+        "enableVersionCheck": false
       },
       {
         "id": "mlbb_dronedmg3",
@@ -923,7 +930,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true
+        "enableVersionCheck": false
       },
       {
         "id": "mlbb_dronedmg4",
@@ -942,7 +949,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true
+        "enableVersionCheck": false
       },
       {
         "id": "mlbb_dronedmg5",
@@ -961,7 +968,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you inject drone, skin, etc...",
-        "enableVersionCheck": true
+        "enableVersionCheck": false
       }
     ]
   },
@@ -990,7 +997,7 @@
         "updateUrl": "https://linktr.ee/paowkw",
         "versionDialogTitle": "Mismatch MLBB Version Detected",
         "versionDialogMessage": "Your version of Mobile Legends is not supported.\n\nTo avoid issues, please update the MLBB to version  (%s) Click Update MLBB now.\n\nNote: After you install the latest ML version, open your ML and download all resources before you install...",
-        "enableVersionCheck": true
+        "enableVersionCheck": false
       }
     ]
   },
