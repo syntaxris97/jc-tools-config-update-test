@@ -768,6 +768,19 @@
     "adblockCheck": true,
     "items": [
       {
+        "id": "roblox_exe3",
+        "title": "Delta Executor",
+        "titleColor": "#FFA500",
+        "description": "Updated: 3/2/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/RobloxDelta.zip",
+        "installType": "roblox",
+        "installButtonText": "Download",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/deltaexe.jpg",
+        "useRewardedInstall": true
+      },
+      {
         "id": "roblox_exe9",
         "title": "Arceus X Executor",
         "titleColor": "#FFA500",
@@ -843,19 +856,6 @@
         "getKeyUrl": "",
         "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/codexexe.jpg",
-        "useRewardedInstall": true
-      },
-      {
-        "id": "roblox_exe3",
-        "title": "Delta Executor",
-        "titleColor": "#FFA500",
-        "description": "Updated: 2/27/2026",
-        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/RobloxDelta.zip",
-        "installType": "roblox",
-        "installButtonText": "Download",
-        "getKeyUrl": "",
-        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
-        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/deltaexe.jpg",
         "useRewardedInstall": true
       },
       {
