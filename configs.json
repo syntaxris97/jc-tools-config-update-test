@@ -894,6 +894,19 @@
     "adblockCheck": true,
     "items": [
       {
+        "id": "roblox_script26",
+        "title": "Blox Fruits Script No Key – Banana Hub",
+        "titleColor": "#FFA500",
+        "description": "Updated: 3/3/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/RobloxScript26.zip",
+        "installType": "roblox",
+        "installButtonText": "Download",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/RobloxScript26.png",
+        "useRewardedInstall": true
+      },
+      {
         "id": "roblox_script25",
         "title": "Fisch Script No Key – Meng Hub",
         "titleColor": "#FFA500",
@@ -1307,7 +1320,7 @@
         "id": "8b_fps1",
         "title": "8 Ball Pool Aim Assist",
         "titleColor": "#FFA500",
-        "description": "License Key: JCRHub\nUpdated: 2/26/2026",
+        "description": "License Key: JCRHub\nUpdated: 3/7/2026",
         "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/8bpaim.zip",
         "installType": "8ball",
         "installButtonText": "Download",
