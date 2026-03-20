@@ -970,6 +970,58 @@
     "adblockCheck": true,
     "items": [
       {
+        "id": "roblox_script30",
+        "title": "Sailor Piece Script No Key – Axel Hub",
+        "titleColor": "#FFA500",
+        "description": "Updated: 3/20/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/RobloxScript30.zip",
+        "installType": "roblox",
+        "installButtonText": "Download",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/RobloxScript30.png",
+        "useRewardedInstall": true
+      },
+      {
+        "id": "roblox_script29",
+        "title": "Blox Fruits Script No Key – MidnightX Hub",
+        "titleColor": "#FFA500",
+        "description": "Updated: 3/20/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/RobloxScript29.zip",
+        "installType": "roblox",
+        "installButtonText": "Download",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/RobloxScript29.png",
+        "useRewardedInstall": true
+      },
+      {
+        "id": "roblox_script28",
+        "title": "Sailor Piece Script No Key – Hybrid Hub",
+        "titleColor": "#FFA500",
+        "description": "Updated: 3/20/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/RobloxScript28.zip",
+        "installType": "roblox",
+        "installButtonText": "Download",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/RobloxScript28.png",
+        "useRewardedInstall": true
+      },
+      {
+        "id": "roblox_script27",
+        "title": "Blox Fruits Script No Key – Bostur Hub",
+        "titleColor": "#FFA500",
+        "description": "Updated: 3/20/2026",
+        "url": "https://github.com/syntaxris97/jc-tools-config/releases/download/v1.0/RobloxScript27.zip",
+        "installType": "roblox",
+        "installButtonText": "Download",
+        "getKeyUrl": "",
+        "howToGetKeyUrl": "https://t.me/jctoolz0/750",
+        "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/RobloxScript27.png",
+        "useRewardedInstall": true
+      },
+      {
         "id": "roblox_script26",
         "title": "Blox Fruits Script No Key – Banana Hub",
         "titleColor": "#FFA500",
