@@ -1305,7 +1305,7 @@
         "getKeyUrl": "",
         "howToGetKeyUrl": "https://t.me/jctoolz0/750",
         "imageUrl": "https://raw.githubusercontent.com/syntaxris97/jc-tools-config-update/main/images/BLOX FRUITS – REDz Hub1.png",
-        "useRewardedInstall": false
+        "useRewardedInstall": true
       }
     ]
   },
@@ -1313,7 +1313,7 @@
     "category": "MOD MENU (CODM)",
     "subtitle": "(CODM)(Free)(Safe)(Smooth)",
     "color": "#FFD700",
-    "adblockCheck": false,
+    "adblockCheck": true,
     "items": [
       {
         "id": "codm_fps1",
